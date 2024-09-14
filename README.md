@@ -11,7 +11,7 @@
 
 Welcome to the **Basic User Management API**! This API allows you to manage users, including creating, retrieving, updating, and deleting users. Below you will find all the available endpoints and their details.
 
-[Click here to show example website](http://test.coupledisplays.eu:8123/)
+[<a href="http://test.coupledisplays.eu:8123/" target="_blank">Click here to show example website</a>](http://test.coupledisplays.eu:8123/)
 
 
 <br>
