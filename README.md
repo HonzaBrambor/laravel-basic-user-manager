@@ -141,6 +141,7 @@ DELETE /users/{user}
     cp .env.example .env
     php artisan key:generate
     ```
+    - Edit database credentials.
 
 4. Run migrations:
     ```bash
