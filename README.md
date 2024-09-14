@@ -144,10 +144,16 @@ DELETE /users/{user}
 
 4. Run migrations:
     ```bash
-    php artisan migrate
+    php artisan migrate:fresh --seed
     ```
 
-5. Start the server:
+5. Build JS and CSS
+    ```bash
+    npm install
+    npm run dev
+    ```
+
+6. Start the server in new terminal:
     ```bash
     php artisan serve
     ```
