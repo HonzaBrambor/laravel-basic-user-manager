@@ -212,15 +212,4 @@ php artisan test
 
 This will execute all the tests defined in the \`tests/\` directory.
 
-<br>
-<br>
-<br>
-<br>
-
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
 
